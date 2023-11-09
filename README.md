@@ -1,3 +1,6 @@
+neiji93: I'm not fully sure if it can be used for a video game. Take a look on it and as I mentionned,
+everything that I share can be perfectly used together.
+
 # CCKS2022-任务9-子任务2：基于知识图谱的商品同款挖掘
 
 [比赛地址](https://tianchi.aliyun.com/competition/entrance/531956/introduction)
